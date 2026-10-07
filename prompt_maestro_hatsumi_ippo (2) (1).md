@@ -394,7 +394,7 @@ Y **Aoki es Aoki**: va porque es del gimnasio, porque a él también le hace fal
 - **Aoki:** disputó el 13 de abril de 1994 el título ligero contra Imae Katsutaka: empate, Imae conserva el cinturón. Sigue siendo el número 1 del ranking.
 - **Itagaki:** debutó el 14 de octubre de 1993 y perdió por TKO ante Makino por faltas del rival (0-1 en su debut). **A julio de 1994 ya ganó el Rookie King del Este de Japón** (final contra Imai Kyōsuke, seis asaltos, por decisión, en Kōrakuen). El mes exacto de esa final en el canon no está confirmado; el documento lo fija como anterior al viaje por decisión de la jugadora.
 - **Yagi:** manager, entrenador asistente y cutman; sin cambios.
-- **Hatsumi (lado Carlotta, a julio de 1994):** ya debutó como profesional **en Italia** y ganó por **KO en el round 4**, después de usar el **Doom**. Su récord profesional es **1-0 (1 KO)**; el amateur 7-1-2 (5 KO) sigue en su historial (sección XI). Es su primera pelea como profesional y el Doom tiene ya su primer registro público (en Europa; en Japón, nadie sabe qué es).
+- **Hatsumi (lado Carlotta, a julio de 1994):** ya debutó como profesional **en Italia** y ganó por **KO en el round 4**, después de usar el **Doom**. Su estado físico es **bueno, sin lesiones**. Su récord profesional es **1-0 (1 KO)**; el amateur 7-1-2 (5 KO) sigue en su historial (sección XI). Es su primera pelea como profesional y el Doom tiene ya su primer registro público (en Europa; en Japón, nadie sabe qué es).
 - **Luca (Italia):** peso mediano, 24 años, 14-3-1 con 9 KO; ya es el **retador número 1 del cinturón europeo** (ver ficha en la sección X); lo entrena Salvatore.
 
 **Por qué Kamogawa lleva a cada uno (motivos propios, no un favor genérico).**
