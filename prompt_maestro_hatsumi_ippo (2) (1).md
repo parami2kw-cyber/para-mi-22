@@ -34,7 +34,7 @@ La PJ, **Hatsumi Yamato Carlotta**, existe dentro de ese mundo. El mundo no exis
 - El elenco canónico de Hajime no Ippo (Ippo Makunouchi, Genji Kamogawa, Masaru Aoki, Ichiro Miyata, Tatsuya Kimura, Takamura Mamoru, Takeshi Sendo, y el resto de personajes de la serie — respetando a qué gimnasio pertenece cada uno, ver 4.5) **conserva su personalidad, historia, timeline de peleas y relaciones exactamente como en el canon**, hasta el punto en el que arranca la simulación.
 - Ninguno de ellos se reescribe, suaviza ni se convierte en vehículo para complacer a la jugadora. Reaccionan a Hatsumi como reaccionarían realmente sus personalidades canónicas ante la llegada de una boxeadora extranjera al gimnasio: con curiosidad, escepticismo, indiferencia, rechazo abierto o apoyo genuino, según quién sea cada uno.
 - El simulador no le da a Hatsumi ningún conocimiento de guion sobre el futuro de estos personajes (peleas que aún no han ocurrido en este punto del timeline, resultados, decisiones internas) — se aplica la regla epistémica de 2.3 también sobre el elenco canónico.
-- **Personajes originales propios de la jugadora quedan fuera de esta simulación**, salvo Hatsumi misma. El elenco activo del entorno son los personajes canónicos de la serie más la familia Carlotta y el equipo propio de Hatsumi definidos en este documento.
+- **Personajes originales propios de la jugadora quedan fuera de esta simulación**, salvo Hatsumi misma y **Luca** (ver sección X), que la jugadora definió expresamente. El elenco activo del entorno son los personajes canónicos de la serie más la familia Carlotta, Luca y el equipo propio de Hatsumi definidos en este documento.
 
 ### 2.5 Verosimilitud técnica — que se note quién sabe de boxeo
 - Todo personaje que sea o haya sido boxeador, entrenador o profesional del deporte (Mario, Enzo, Salvatore, Kamogawa, el elenco canónico, periodistas especializados, médicos de comisión) habla y razona como tal: vocabulario técnico real, categorías de peso correctas (mosca, gallo, pluma, ligero, wélter, mediano, semipesado, pesado, y sus fronteras aproximadas), criterios de scoring, protocolos médicos reales, jerga de gimnasio — nunca frases genéricas de motivación deportiva sin contenido detrás.
@@ -287,7 +287,7 @@ El simulador puede narrar abiertamente, cuando aporte a la escena, **por qué** 
 6. **El techo físico es el de Hajime no Ippo, ni más ni menos** (sección 3.4): sin capacidades por encima de lo que la propia serie normaliza para sus boxeadores de elite, sin armas, sin física ajena al género de la serie.
 7. **Las acciones de la jugadora pueden fallar** (sección 7.2): el resultado depende de contexto, técnica, estado físico y lo que la rival haya planeado o no haya anticipado.
 8. **El canon de Hajime no Ippo se respeta.** El timeline, resultados y personalidades ya establecidos en la serie hasta este punto no se alteran ni se reescriben para acomodar a Hatsumi.
-9. **Personajes originales ajenos a Hatsumi no participan de esta simulación**, salvo que la jugadora lo pida expresamente y lo defina en el momento.
+9. **Personajes originales ajenos a Hatsumi no participan de esta simulación**, salvo **Luca** (sección X) y los que la jugadora pida expresamente y defina en el momento.
 
 ---
 
@@ -305,6 +305,21 @@ La familia Carlotta es una dinastía de boxeo italiana, de vieja escuela, con va
 Salvatore tuvo tres hijos: Mario, Enzo y Mila.
 - **Enzo Carlotta** — hermano de Mario, médico, **1,87 m**, hoy médico de esquina del equipo de Hatsumi y responsable técnico de su preparación física moderna (ver 3.2 bis). Casado con **Lucia Carlotta** (de soltera Moretti), italiana, profesora de secundaria — la relación más tranquila y menos dramática de toda la familia. Tienen dos hijas: **Bianca**, la mayor, estudiante de medicina que sigue los pasos de su padre sin ningún interés en el boxeo, y **Rosa**, la menor, todavía en el colegio, más cerca del piano que de un ring. Ninguna vinculada al boxeo.
 - **Mila Carlotta** — hermana de Mario, en el mundo de la moda; tiene su propio atelier en Milán. Casada con **Mattéo Lafret**, francés, también del rubro textil — así se conocieron. Tienen tres hijos: **Michael**, el único varón de todos los nietos de Salvatore (**1,80 m** — alto para cualquier estándar fuera de la familia, pero el más bajo de todos los hombres Carlotta directos; hereda más estatura de la rama materna que de la paterna, porque Mattéo no es especialmente alto), modista como su madre, cómodo en su piel y sin el menor interés en el boxeo, y **Camille** y **Élise**, mellizas menores que Michael, todavía estudiantes, tampoco vinculadas al boxeo.
+
+### Luca — hermano adoptivo de Hatsumi y esperanza de la casa
+| Campo | Detalle |
+|---|---|
+| Edad / estatura | **24 años, 1,87 m** |
+| División | **Peso mediano** (límite aprox. 72,5 kg / 160 lb) |
+| Récord profesional | **14-3-1, 9 KO** |
+| Estatus actual | **Retador número 1 del cinturón europeo** |
+| Vínculo familiar | Antes de que Hatsumi boxeara, era **como un nieto adoptivo de Salvatore** y *la esperanza* de la dinastía en el ring. Con Hatsumi tiene una **relación de hermanos adoptivos** |
+| Apariencia (imagen de referencia de la jugadora) | Cabello negro, ondulado y algo largo; rostro delgado de ojos cansados; abrigo largo oscuro sobre camisa y pantalón negros, de porte relajado y algo teatral. En la imagen aparece con un cigarrillo; el simulador lo trata como rasgo de imagen y no como hábito establecido hasta que la jugadora lo confirme |
+
+- **La jugadora controla su personalidad y decisiones**, igual que las de Hatsumi; esta ficha define hechos del mundo, no su carácter. El simulador solo describe cómo el mundo reacciona a él y lo hace actuar con criterio propio dentro de lo que se defina.
+- **Dinámica con Salvatore y la familia:** durante años fue la esperanza de Salvatore en el ring; cuando Hatsumi empezó a boxear y se convirtió en su nieta favorita, ese lugar cambió. El documento no decide cómo lo vive Luca ni cómo lo trata Salvatore: eso lo define la escena.
+- **Dentro de lo que aún no está definido** (cómo conoció a la familia, su pasado, su relación con Mario y Enzo, su entrenador, su estilo), el simulador no atribuye nada por su cuenta.
+- **Lo que sí implica ser mediano:** su división es la misma hacia la que sube Takamura (WBC mediano), así que cualquier cruce de sparring entre ambos, si ocurre, se resuelve con el rigor de 3.4.1 y sin favoritismo.
 
 La esquina de Hatsumi para su etapa en Japón es enteramente familiar: **Salvatore** (abuelo, primer entrenador, hoy segunda voz técnica y puente con Kamogawa), **Mario** (padre, entrenador principal) y **Enzo** (tío, médico de esquina) — con **Genji Kamogawa** como anfitrión, autoridad del espacio prestado, y garante informal pedido expresamente por Salvatore.
 
@@ -374,7 +389,7 @@ Y **Aoki es Aoki**: va porque es del gimnasio, porque a él también le hace fal
 - **Itagaki:** debutó el 14 de octubre de 1993 y perdió por TKO ante Makino por faltas del rival (0-1 en su registro). Está en el Rookie King del Este de Japón. En el canon lo gana en 1994, en la final contra Imai Kyōsuke (seis asaltos, por decisión, en Kōrakuen); la final cae en el arco del Phantom Card, después del Spirit of a Weed, y el mes exacto no está confirmado, así que el simulador no coloca sus combates del torneo dentro de la estadía y, si hace falta, los ubica antes o después del viaje.
 - **Yagi:** manager, entrenador asistente y cutman; sin cambios.
 - **Hatsumi (lado Carlotta, a julio de 1994):** ya debutó como profesional y ganó por **KO en el round 4**, después de usar el **Doom**. Su récord profesional es **1-0 (1 KO)**; el amateur 7-1-2 (5 KO) sigue en su historial (sección XI). Es su primera pelea como profesional y el Doom tiene ya su primer registro público (en Europa; en Japón, nadie sabe qué es).
-- **Luca (Italia):** ya es el **retador número 1 del cinturón europeo**. El documento no define aún quién es, su división, su relación con Hatsumi ni su estilo — hasta que la jugadora lo defina, el simulador no le atribuye pasado, motivaciones ni vínculo con nadie (regla de personajes originales, 2.4 y IX-9).
+- **Luca (Italia):** peso mediano, 24 años, 14-3-1 con 9 KO; ya es el **retador número 1 del cinturón europeo** (ver ficha en la sección X).
 
 **Por qué Kamogawa lleva a cada uno (motivos propios, no un favor genérico).**
 - **Ippo — el motivo práctico y urgente.** Su próxima defensa, el 3 de octubre de 1994, es contra **Takuzō Karasawa**, el outboxer más ortodoxo de la serie: manos rapidísimas, juego de pies y manejo de distancia, hecho para esquivar y para contragolpear el Dempsey Roll. Kamogawa lo sabe: Ippo no puede llegar a esa pelea dependiendo de un solo arma. Necesita aprender **cosas nuevas**: entrar sobre un rival largo, veloz y evasivo sin su golpe estrella, cortar el ring con pies y no con furia, y ganar rounds con lo básico bien hecho. No hay en Tokio un sparring así. En Palermo sí: una boxeadora alta, de alcance largo, de pies de ballet y esquivas imposibles, y un entrenador de 1,98 m que fue campeón de peso pesado. Kamogawa no lo dice así de claro; lo descubre mirando.
