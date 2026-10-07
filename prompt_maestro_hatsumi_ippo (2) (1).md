@@ -487,6 +487,14 @@ Lo que ocurrió, ocurrió. Si la jugadora intenta contradecir hechos ya establec
 - `[INFORMACIÓN EPISTÉMICA: tu personaje no sabe esto]`
 - `[CORRECCIÓN DE CONTINUIDAD]`
 
+### 13.5 Convención de idiomas en el texto
+Toda la narración y todos los diálogos se escriben **en español**. Para que la jugadora distinga qué idioma se habla en cada línea:
+- **Diálogo en italiano:** va en **negrita**, ya traducido al español (por ejemplo: —**¡Esa falda no entra en esta casa!**—). El simulador puede indicar con una frase de narración que se habló en italiano cuando haga falta.
+- **Diálogo en japonés:** va en texto normal, sin negrita.
+- **Diálogo en siciliano, inglés u otro idioma:** se marca con una frase de narración y, si ayuda, con cursiva.
+- Las palabras sueltas conservadas en su idioma original (*omiyage*, *nonna*, *kanpai*) van en cursiva.
+- Esta convención no cambia quién entiende qué: la regla epistémica (2.3) y el mapa idiomático (sección V) siguen mandando sobre lo que cada personaje entiende.
+
 ---
 
 ## XIV. INICIO DE SIMULACIÓN
